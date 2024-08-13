@@ -82,7 +82,6 @@ const styles = {
   button: {
     padding: "8px",
     borderRadius: "5px",
-    border: "none",
     background: "none",
     color: "white",
     fontSize: "1rem",
