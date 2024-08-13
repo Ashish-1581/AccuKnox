@@ -6,6 +6,6 @@
 - Run npm install command in the root directory of project.
 - Run npm run dev command in the root directory.
 
-## Deployed Assignment Link
+## Hosted Project Link
 
-[Visit the project](https://accu-knox-six.vercel.app/)
+[click to Visit the hosted project link directly](https://accu-knox-six.vercel.app/)
