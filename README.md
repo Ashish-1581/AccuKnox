@@ -5,3 +5,7 @@
 - Clone the project using command line or by zip code.
 - Run npm install command in the root directory of project.
 - Run npm run dev command in the root directory.
+
+## Deployed Assignment Link
+
+[Visit the project](https://accu-knox-six.vercel.app/)
